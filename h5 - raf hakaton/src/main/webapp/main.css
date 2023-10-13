@@ -1,0 +1,64 @@
+.button1 {
+    background-color: #4282c1;
+    display: inline-block;
+    border: none;
+    color: white;
+    padding: 0px 65px;
+    line-height: 60px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 500;
+    margin-top: 100px;
+    cursor: pointer;
+}
+
+#h_prijava {
+    font-size: 50px;
+    color: black;
+    text-align: center;
+}
+
+#h_obavestenje {
+    font-size: 22px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+#info_hakaton {
+    width: 100%;
+    font-size: 18px;
+    text-align: center;
+    border: none;
+    padding: 9px 5px;
+    border-radius: 4px;
+}
+
+#info_broj {
+    width: 100%;
+    font-size: 18px;
+    text-align: center;
+    border: none;
+    padding: 9px 5px;
+    margin-bottom: 60px;
+    border-radius: 4px;
+}
+.center {
+    width: 50%;
+    border: 4px #4282c1;
+    padding: 10px;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.input-group {
+    padding: 9px;
+    border: none;
+}
+
+#imeClana, #prezimeClana {
+    color: black;
+}

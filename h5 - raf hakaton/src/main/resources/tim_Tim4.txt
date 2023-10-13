@@ -1,0 +1,40 @@
+Ime tima: Tim4
+
+Kontakt mejl: tim4@gmail.com
+
+Kontakt telefon: 0607778293
+
+Moto tima: abc
+
+Kako ste saznali za Hakaton: LinkedIn
+
+Broj clanova: 3
+
+
+Clan 1: Dimitrije Mitrovic
+
+Mejl clana: mit@gmail.com
+
+Uloga: dev
+
+LinkedIn: https://www.linkedin.com
+
+
+Clan 2: Uros Petrovic
+
+Mejl clana: up@gmail.com
+
+Uloga: dev
+
+LinkedIn: https://www.linkedin.com
+
+
+Clan 3: Lana Ivankovic
+
+Mejl clana: li@gmaiil.com
+
+Uloga: dev
+
+LinkedIn: https://www.linkedin.com
+
+
