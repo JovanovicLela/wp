@@ -1,23 +1,0 @@
-Ime tima: Tim2
-Kontakt mejl: lex@gmail.com
-Kontakt telefon: 0123456789
-Moto tima: da
-Kako ste saznali za Hakaton: Facebook
-Broj clanova: 3
-
-Clan 1: Nemanja Mitrovic
-Mejl clana: n@gmail.com
-Uloga: dev
-LinkedIn: https://www.linkedin.com
-
-Clan 2: Nemanja Jevtovic
-Mejl clana: n@gmail.com
-Uloga: Dev
-LinkedIn: https://www.linkedin.com
-
-Clan 3: Ana Jovic
-Mejl clana: v@gmail.com
-Uloga: Dev
-LinkedIn: https://www.linkedin.com
-
-
